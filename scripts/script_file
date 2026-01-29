@@ -1,1 +1,6 @@
+CREATE DATABASE DATAWearhouse;
+USE DATAWearhouse;
 
+create schema bronze;
+create schema silver;
+create schema gold;
